@@ -1,0 +1,71 @@
+{
+    "name": "Betwext",
+    "description": "Better SMS, MMS and Text Marketing",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/706-betwext.jpg",
+    "tags": [
+        "api not found",
+        "global",
+        "have api",
+        "sms marketing",
+        "telecommunications"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/betwext\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "Betwext",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/706-betwext.jpg",
+            "humanURL": "http:\/\/betwext.com",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/betwext-openapi.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Blog",
+            "url": "http:\/\/betwext.com\/blog"
+        },
+        {
+            "type": "Blog RSS",
+            "url": "http:\/\/betwext.com\/blog\/feed\/"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "https:\/\/crunchbase.com\/organization\/betwext"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "http:\/\/www.crunchbase.com\/company\/betwext"
+        },
+        {
+            "type": "Email",
+            "url": "help@betwext.com"
+        },
+        {
+            "type": "Email",
+            "url": "support@betwext.com"
+        },
+        {
+            "type": "Email",
+            "url": "info@betwext.com"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/betwext"
+        },
+        {
+            "type": "Website",
+            "url": "http:\/\/betwext.com"
+        }
+    ]
+}
